@@ -1,19 +1,4 @@
-name: Splitlevel
-favicon: null
-layout_spectrum: 0.5467663705348969
 typography_spectrum: 0.052377511747181416
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.012394599616527557
   saturation: 0.4900322030298412
   rhythmicContrast: 0.07757321232929826
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5467663705348969
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Splitlevel
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: pure. creative. design.
 purpose: []
